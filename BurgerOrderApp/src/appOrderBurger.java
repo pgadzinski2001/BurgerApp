@@ -1,3 +1,4 @@
+// Patryk Gadziński - 74978 - INLS2
 // Implementuje interfejs "List", który pozwala go używać jako lista
 import java.util.ArrayList;
 import java.util.List;
